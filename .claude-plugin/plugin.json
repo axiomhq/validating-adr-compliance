@@ -1,0 +1,14 @@
+{
+  "name": "validating-adr-compliance",
+  "description": "Validates PR code against Architecture Decision Records (ADRs). Uses oracle for deep analysis of implementation compliance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Heinz Gies",
+    "email": "heinz@axiom.co",
+    "url": "https://github.com/Licenser"
+  },
+  "homepage": "https://github.com/axiomhq/validating-adr-compliance",
+  "repository": "https://github.com/axiomhq/validating-adr-compliance",
+  "license": "MIT",
+  "keywords": ["adr", "architecture", "compliance", "validation", "code-review"]
+}
