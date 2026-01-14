@@ -17,11 +17,8 @@ Uses oracle for deep analysis of implementation compliance. This skill helps ens
 
 ### Amp
 
-Copy to your skills directory:
 ```bash
-mkdir -p ~/.config/agents/skills/validating-adr-compliance
-curl -o ~/.config/agents/skills/validating-adr-compliance/SKILL.md \
-  https://raw.githubusercontent.com/axiomhq/validating-adr-compliance/main/SKILL.md
+amp skill install github.com/axiomhq/validating-adr-compliance
 ```
 
 ### Claude Code (via marketplace)
